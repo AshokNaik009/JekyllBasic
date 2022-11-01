@@ -82,7 +82,21 @@ html {
 .carousel-item.communityday #communityday-logo {
     height: 60px;
 }
+
+.banner-main h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    margin-bottom: 1.5rem;
 }
+
+
+
+
+
+}
+
+
+
 @media (min-width: 576px) {
 .carousel-item.communityday #communityday-logo {
     height: 150px;
@@ -182,6 +196,7 @@ img.communityday-sponsor-small {
     margin-right: 18px;
     padding: 35px 0;
     position: relative;
+    margin:5px;
 }
 
 .countdown .counter-item i {
@@ -326,6 +341,7 @@ img.communityday-sponsor-small {
 
 .header.header-transparent .navbar-brand img {
     vertical-align: top;
+    width: 12rem;
 }
 
 .header.header-transparent ul.navbar-nav {
@@ -984,7 +1000,17 @@ img.communityday-sponsor-small {
     max-width: 100%;
     position: relative;
     overflow: hidden;
+    
 }
+
+/* media query for intro-video */
+@media (max-width: 767px) {
+    .intro-video {
+        margin-bottom: 30px;
+    }
+}
+
+
 .video-icon {
     text-align: center;
     color: #fff;
@@ -1498,4 +1524,27 @@ img.communityday-sponsor-small {
     visibility: visible; 
     animation-duration: 1.5s; 
     animation-delay: 400ms;
+}
+
+@media only screen and (min-width: 360px) and (max-width: 480px) {
+    .ts-intro {
+        padding-bottom: 1rem !important;
+        padding-top: 5rem;
+    }
+
+    .ts-schedule {
+        padding-top: 2rem;
+        position: relative;
+        overflow: hidden;
+    }
+    .ts-schedule-nav {
+        text-align: center;
+        margin-bottom: 10px !important;
+    }
+
+    .header.header-transparent .navbar-brand img {
+        vertical-align: top;
+        width: 9rem;
+    }
+    
 }
