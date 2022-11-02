@@ -1546,5 +1546,10 @@ img.communityday-sponsor-small {
         vertical-align: top;
         width: 9rem;
     }
+
+    .header.header-transparent ul.navbar-nav > li > a {
+        color: #fff;
+        line-height: 35px;
+    }
     
 }
