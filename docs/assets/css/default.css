@@ -1569,7 +1569,26 @@ img.communityday-sponsor-small {
 .footer-pad {
     padding-inline-start: 1px; 
 }
+
+.closingText {
+    font-size: 1.5rem;
+}
 @media only screen and (min-width: 360px) and (max-width: 480px) {
+
+
+    .schedule-slot-time-key {
+        width: 24%;
+        float: left;
+        font-weight: 700;   
+    }
+    .sm-fnt {
+        font-size: 17px;
+    }
+    
+    .closingText {
+        font-size: 1.2rem;
+    }
+
     .footer-pad {
         padding-inline-start: 1px; 
     }
