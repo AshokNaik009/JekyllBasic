@@ -1,13 +1,16 @@
 
-- speaker: TBD
+- speaker: Mohammed Fazalullah and Rewanth Tamanna
   language: English
   title: Ship Securely:Automated security testing for developers
   time: 12:00 - 1:30 pm
-  image: default-avatar.png
-  font-css-class: sm-fnt
-- speaker: Rewanth Tamanna
+  image: security-testing.png
+  card-css-class: wrkshpCard
+  scheduled-on: first-half
+- speaker: Hameedullah Khan
   language: English
-  title: TBD
+  title: Demystifying IAM Policy Evaluation for identities and resource
   time: 2:30 - 4:00 pm
-  image: default-avatar.png
+  image: awsGrayLogo.jpg
   custom-css-class: bg
+  card-css-class: wrkshpCard
+  scheduled-on: second-half

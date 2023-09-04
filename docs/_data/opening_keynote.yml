@@ -1,19 +1,37 @@
-- speaker: Maria Encinar and Mohammed Fazlullah
+- speaker: Registration Team
   language: English
-  title: Introduction & KeyNote
-  time: 10:00 - 10:35 am
-  image: default-avatar.png
+  title: Registration
+  time: 09:30 - 10:00 am
+  image: awsGrayLogo.jpg
   custom-css-class: bg
-- speaker: TBD
+- speaker: Community Day Organising Team
+  language: English
+  title: Introduction
+  time: 10:00 - 10:15 am
+  image: awsGrayLogo.jpg
+  custom-css-class: bg
+- speaker: Maria Encinar and Mohammed Fazalullah
+  language: English
+  title: Introduction & Keynote
+  time: 10:15 - 10:35 am
+  image: awsGrayLogo.jpg
+  custom-css-class: bg
+- speaker: Hameedullah Khan - SUDO Consultants
   language: English
   title: Sponsor Talk
   time: 10:35 - 11:05 am
-  image: default-avatar.png
+  image: awsGrayLogo.jpg
   custom-css-class: bg
-- speaker: Maria Encinar, Mohammed Fazlullah, Mark Birch
+  linked-url: https://www.linkedin.com/in/hameedullahkhan/
+- speaker: Maria Encinar, Mohammed Fazalullah, Mark Birch
   language: English
   title: Panel Discussion
-  time: 10:35 - 11:05 am
-  image: default-avatar.png
+  time: 11:05 - 11:35 am
+  image: awsGrayLogo.jpg
   custom-css-class: bg
-  
+- speaker:
+  language: English
+  title: Networking & Coffee Break
+  time: 11:35 - 12:00 pm
+  image: awsGrayLogo.jpg
+  custom-css-class: bg
